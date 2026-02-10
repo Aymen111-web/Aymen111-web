@@ -26,14 +26,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40"/>
 </p>
 
-<h3 align="center">🤝 Connect with Me</h3>
-
-<p align="center">
-  📧 <a href="aymimanmoh8@gmail.com">aymimanmoh8@email.com</a><br>
-  🌐 <a href="https://aymimoh.netlify.app/">aymimoh.netlify.app</a><br>
-  💼 <a href="https://www.linkedin.com/in/aymen-mohammed-80845033a">aymen_moh</a>
-</p>
-
 
 
 
