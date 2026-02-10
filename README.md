@@ -38,12 +38,14 @@
 🚀 What I’m Currently Doing
 - Strengthening my skills in full-stack web development  
 - Building personal and academic projects  
-- Exploring best practices in clean code and software design
+- Exploring best practices in clean code and software design.
 
 
 🎯 Goals
 
 My goal is to grow as a software engineer by working on real-world projects, contributing to meaningful solutions .
+
+
 
 
 
