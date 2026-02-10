@@ -52,8 +52,7 @@ My goal is to grow as a software engineer by working on real-world projects, con
   📧 <a href="mailto:aymimanmoh8@gmail.com">aymimanmoh8@gmail.com</a><br>
   🌐 <a href="https://aymimoh.netlify.app/">aymimoh.netlify.app</a><br>
   💼 <a href="https://www.linkedin.com/in/aymen-mohammed-80845033a">LinkedIn Profile</a>
-  
-   💬 <a href="https://t.me/Aymi_man">My_Telegram</a>
+  💬 <a href="https://t.me/Aymi_man">My_Telegram</a>
   <p>
  
 </p>
