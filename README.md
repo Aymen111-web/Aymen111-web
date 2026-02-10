@@ -30,8 +30,8 @@
 
 <p align="center">
   📧 <a href="aymimanmoh8@gmail.com">yaymimanmoh8@email.com</a><br>
-  🌐 <a href="https://yourwebsite.com">yourwebsite.com</a><br>
-  💼 <a href="https://www.linkedin.com/in/yourusername">LinkedIn Profile</a>
+  🌐 <a href="https://aymimoh.netlify.app/">aymimoh.netlify.app</a><br>
+  💼 <a href="https://www.linkedin.com/in/yourusername"></a>
 </p>
 
 
