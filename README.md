@@ -1,4 +1,8 @@
-- 👋 Hi, I’m Aymen
+
+- <p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&color=00C853&width=700&lines=Hi+👋+I'm+Aymen+Mohammed;Software+Engineering+Student;Web+Developer+in+Progress;Always+Learning+🚀" />
+</p>
+
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning Node.js 
 - 💞️ I’m always open to collaborating on projects or discussing about web development .
