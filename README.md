@@ -8,7 +8,8 @@
 - 🌱 I’m currently learning Node.js 
 - 💞️ I’m always open to collaborating on projects or discussing about web development .
 - ⚡ when i'm not coding, i enjoy playing playstation game .
-- - 📫 aymimanmoh8@gmail.com
+
+  
 
 <h3 align="center">🛠 Tech Stack </h3>
 
@@ -24,6 +25,15 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40"/>
 </p>
+
+<h3 align="center">🤝 Connect with Me</h3>
+
+<p align="center">
+  📧 <a href="aymimanmoh8@gmail.com">yaymimanmoh8@email.com</a><br>
+  🌐 <a href="https://yourwebsite.com">yourwebsite.com</a><br>
+  💼 <a href="https://www.linkedin.com/in/yourusername">LinkedIn Profile</a>
+</p>
+
 
 
 
