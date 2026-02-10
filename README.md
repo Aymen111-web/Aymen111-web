@@ -7,8 +7,8 @@
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning Node.js 
 - 💞️ I’m always open to collaborating on projects or discussing about web development .
-- 📫 aymimanmoh8@gmail.com
 - ⚡ when i'm not coding, i enjoy playing playstation game .
+- - 📫 aymimanmoh8@gmail.com
 
 <h3 align="center">🛠 Tech Stack </h3>
 
