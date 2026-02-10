@@ -1,5 +1,5 @@
 
-- <p align="center">
+<p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=28&color=00C853&width=700&lines=Hi+👋+I'm+Aymen+Mohammed;Software+Engineering+Student;Web+Developer+in+Progress;Always+Learning+🚀" />
 </p>
 
@@ -9,7 +9,7 @@
 - 📫 aymimanmoh8@gmail.com
 - ⚡ when i'm not coding, i enjoy playing playstation game .
 
-<h3 align="center">🛠 Tech Stack</h3>
+<h3 align="center">🛠 Tech Stack </h3>
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/>
@@ -18,7 +18,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40"/>
 </p>
 
