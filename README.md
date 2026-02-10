@@ -5,7 +5,7 @@
 
 
 - 👀 I’m interested in web development and problem solving .
-- 🌱 I’m currently learning Node.js 
+- 🌱 I’m currently learning Node.js .
 - 💞️ I’m always open to collaborating on projects or discussing about web development .
 - ⚡ when i'm not coding, i enjoy playing playstation game .
 
