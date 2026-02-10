@@ -43,7 +43,7 @@
 
 🎯 Goals
 
-My goal is to grow as a software engineer by working on real-world projects, contributing to meaningful solutions
+My goal is to grow as a software engineer by working on real-world projects, contributing to meaningful solutions .
 
 
 
