@@ -30,12 +30,14 @@
 - Strengthening my skills in full-stack web development  
 - Building personal and academic projects  
 - Exploring best practices in clean code and software design
-<h3>🤝 Connect with Me</h3>
 
 
 🎯 Goals
 My goal is to grow as a software engineer by working on real-world projects, contributing to meaningful solutions
 
+
+
+<h3>🤝 Connect with Me</h3>
 
 <p>
   📧 <a href="mailto:aymimanmoh8@gmail.com">aymimanmoh8@gmail.com</a><br>
