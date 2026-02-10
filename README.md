@@ -26,7 +26,16 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40"/>
 </p>
 
+🚀 What I’m Currently Doing
+- Strengthening my skills in full-stack web development  
+- Building personal and academic projects  
+- Exploring best practices in clean code and software design
 <h3>🤝 Connect with Me</h3>
+
+
+🎯 Goals
+My goal is to grow as a software engineer by working on real-world projects, contributing to meaningful solutions
+
 
 <p>
   📧 <a href="mailto:aymimanmoh8@gmail.com">aymimanmoh8@gmail.com</a><br>
